@@ -235,38 +235,6 @@ footer > div{
 	.label_foot > div:first-child{
 		font-size: 4.2vw;
 	}
-	
-	.nav > li:not(.visible){
-		display: none;
-	}
-
-	.nav > li{
-		transform: scale(.72);
-		margin: 0px;
-		margin-bottom: 9px;
-		margin-top: 4.5px;
-		padding: 0px;
-		padding-top: 4.5px;
-	}
-
-	body{
-		margin: 0px;
-		padding: 0px;
-	}
-
-	.nav{
-		padding: 0px;
-		margin-bottom: 0px;
-		width: 100%;
-	}
-
-	.nav > li:last-child{
-		margin: 4.5px 0px 9px auto;
-	}
-
-	.foot > a >img:not(.my){
-		display: none;
-	}
 }
 
 @media only screen and (max-width: 522px) {
