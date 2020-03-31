@@ -311,7 +311,7 @@ img{
 	}
 }
 
-@media only screen and (max-width: 810px) {
+@media only screen and (max-width: 900px) {
 	body{
 		all:unset;
 	}
